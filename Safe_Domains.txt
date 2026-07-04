@@ -1,0 +1,9 @@
+A list of safe Domains to use with my program
+
+google.com
+github.com
+python.org
+microsoft.com
+amazon.com
+stackoverflow.com
+apple.com
